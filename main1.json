@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "keywords": ["introduction", "fresher", "skills", "learning", "background"]
+  },
+  {
+    "question": "Why do you want this job?",
+    "keywords": ["career", "growth", "learning", "opportunity", "interest"]
+  },
+  {
+    "question": "What are your strengths?",
+    "keywords": ["strengths", "skills", "communication", "teamwork", "learning"]
+  },
+  {
+    "question": "What are your weaknesses?",
+    "keywords": ["weakness", "improvement", "learning", "experience"]
+  },
+  {
+    "question": "Are you a team player?",
+    "keywords": ["teamwork", "collaboration", "group", "work"]
+  },
+  {
+    "question": "What are your hobbies?",
+    "keywords": ["hobbies", "reading", "learning", "skills"]
+  },
+  {
+    "question": "Can you work under pressure?",
+    "keywords": ["pressure", "stress", "focus", "calm"]
+  },
+  {
+    "question": "Are you willing to relocate?",
+    "keywords": ["relocation", "flexibility", "location", "job"]
+  },
+  {
+    "question": "What motivates you?",
+    "keywords": ["motivation", "goals", "learning", "growth"]
+  },
+  {
+    "question": "Do you have any questions for us?",
+    "keywords": ["questions", "company", "growth", "learning"]
+  },
+  {
+    "question": "Why should we hire you?",
+    "keywords": ["skills", "value", "contribution", "team", "fit"]
+  },
+  {
+    "question": "Describe a challenge you faced.",
+    "keywords": ["challenge", "problem", "solution", "teamwork"]
+  },
+  {
+    "question": "How do you handle stress?",
+    "keywords": ["stress", "management", "calm", "focus"]
+  },
+  {
+    "question": "Where do you see yourself in 5 years?",
+    "keywords": ["future", "career", "growth", "goals"]
+  },
+  {
+    "question": "How do you prioritize your work?",
+    "keywords": ["priority", "time", "tasks", "planning"]
+  },
+  {
+    "question": "What do you know about our company?",
+    "keywords": ["company", "research", "knowledge", "industry"]
+  },
+  {
+    "question": "How do you handle criticism?",
+    "keywords": ["feedback", "improvement", "learning"]
+  },
+  {
+    "question": "How do you manage your time?",
+    "keywords": ["time", "management", "planning", "schedule"]
+  },
+  {
+    "question": "What are your salary expectations?",
+    "keywords": ["salary", "expectation", "negotiation"]
+  },
+  {
+    "question": "What is your greatest achievement?",
+    "keywords": ["achievement", "success", "project", "goal"]
+  },
+  {
+    "question": "Tell me about a time you handled conflict.",
+    "keywords": ["conflict", "resolution", "team", "communication"]
+  },
+  {
+    "question": "Describe your leadership style.",
+    "keywords": ["leadership", "team", "support", "management"]
+  },
+  {
+    "question": "How do you handle failure?",
+    "keywords": ["failure", "learning", "improvement"]
+  },
+  {
+    "question": "What makes you unique?",
+    "keywords": ["unique", "skills", "strength", "adaptability"]
+  },
+  {
+    "question": "Explain a situation where you failed.",
+    "keywords": ["failure", "experience", "lesson", "growth"]
+  },
+  {
+    "question": "How do you take decisions under pressure?",
+    "keywords": ["decision", "pressure", "logic", "calm"]
+  },
+  {
+    "question": "What are your long-term career goals?",
+    "keywords": ["career", "long-term", "goals", "growth"]
+  },
+  {
+    "question": "How do you contribute to company growth?",
+    "keywords": ["contribution", "growth", "team", "efficiency"]
+  },
+  {
+    "question": "What is your approach to problem-solving?",
+    "keywords": ["problem-solving", "analysis", "solution", "logic"]
+  },
+  {
+    "question": "How do you stay updated with industry trends?",
+    "keywords": ["learning", "trends", "industry", "updates"]
+  }
+]
