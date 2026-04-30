@@ -1,670 +1,137 @@
 [
- {
-  "question": "Tell me about yourself",
-  "keywords": [
-    "name",
-    "pursuing",
-    "final-year student",
-    "recent graduate",
-    "course/field",
-    "specialization",
-    "college/university",
-    "academic background",
-
-    "learning interest",
-    "continuous learning",
-    "skill development",
-    "career building",
-    "professional environment",
-    "industry exposure",
-
-    "academic knowledge",
-    "core subjects",
-    "technical skills",
-    "soft skills",
-    "projects",
-    "academic projects",
-    "practical experience",
-    "internship",
-    "training",
-    "certifications",
-
-    "problem solving",
-    "analytical thinking",
-    "critical thinking",
-    "teamwork",
-    "team collaboration",
-    "communication skills",
-    "presentation skills",
-    "time management",
-
-    "hardworking",
-    "self-motivated",
-    "adaptable",
-    "flexible",
-    "quick learner",
-    "positive attitude",
-    "dedicated",
-    "responsible",
-
-    "fresher",
-    "entry-level",
-    "job opportunity",
-    "apply knowledge",
-    "real-world experience",
-    "hands-on experience",
-    "career growth",
-    "personal growth",
-    "professional growth",
-    "long-term career goals",
-    "contribution to organization",
-    "value addition"
-  ]
-},
   {
-  "question": "Why do you want this job?",
-  "keywords": [
-    "job interest",
-    "career start",
-    "career opportunity",
-    "entry-level role",
-    "fresher job",
-
-    "college projects",
-    "academic projects",
-    "college experience",
-    "practical learning",
-    "training",
-    "internship",
-    "workshop",
-    "certifications",
-
-    "practical experience",
-    "real-world experience",
-    "hands-on learning",
-    "industry exposure",
-
-    "skills match",
-    "interest alignment",
-    "role suitability",
-    "knowledge application",
-
-    "learning",
-    "continuous learning",
-    "skill development",
-    "professional growth",
-    "career growth",
-
-    "professional environment",
-    "work culture",
-    "team environment",
-
-    "company research",
-    "company background",
-    "company products",
-    "company services",
-    "company goals",
-    "company mission",
-    "company vision",
-    "organization values",
-    "industry knowledge",
-
-    "company reputation",
-    "interest in company",
-    "target company",
-
-    "contribution",
-    "value addition",
-    "positive contribution",
-    "team contribution",
-
-    "knowledge improvement",
-    "experience building",
-    "long-term career",
-    "career building",
-
-    "motivation",
-    "enthusiasm",
-    "commitment",
-    "dedication"
-  ]
-},
- {
-  "question": "What are your strengths?",
-  "keywords": [
-    "hardworking",
-    "self-motivated",
-    "quick learner",
-    "adaptable",
-    "flexible",
-    "positive attitude",
-
-    "problem solving",
-    "analytical thinking",
-    "critical thinking",
-    "decision making",
-
-    "communication skills",
-    "verbal communication",
-    "written communication",
-    "presentation skills",
-
-    "teamwork",
-    "team collaboration",
-    "leadership",
-    "interpersonal skills",
-
-    "time management",
-    "task management",
-    "multitasking",
-    "punctuality",
-
-    "responsibility",
-    "dedication",
-    "consistency",
-    "focus",
-    "goal oriented",
-
-    "technical skills",
-    "learning ability",
-    "continuous learning",
-    "skill improvement",
-
-    "attention to detail",
-    "accuracy",
-    "work efficiency",
-    "productivity"
-  ]
-},
- {
-  "question": "What are your weaknesses?",
-  "keywords": [
-    "overthinking",
-    "perfectionist",
-    "attention to detail",
-
-    "public speaking nervousness",
-    "stage fear",
-    "confidence improvement",
-
-    "limited experience",
-    "fresher challenge",
-    "learning phase",
-
-    "taking extra responsibility",
-    "difficulty saying no",
-    "workload management",
-
-    "time management improvement",
-    "prioritization",
-    "task planning",
-
-    "delegation difficulty",
-    "team trust building",
-
-    "impatience for results",
-    "focus on quality",
-    "continuous improvement",
-
-    "self-awareness",
-    "self-improvement",
-    "skill development",
-    "learning mindset",
-    "growth mindset"
-  ]
-},
+    "question": "Tell me about yourself",
+    "answer": "My name is [Your Name]. I am currently pursuing/completed my studies in [Course/Field] from [College/University]. I have a strong interest in learning new skills and building my career in a professional environment. During my studies, I worked on academic projects and gained basic knowledge of core subjects and technical skills. I am a hardworking, adaptable, and quick learner. As a fresher, I am looking for an opportunity to apply my knowledge, gain real-world experience, and grow both personally and professionally.",
+    "keywords": [
+      "name","pursuing","final-year student","recent graduate","course/field","specialization","college/university","academic background",
+      "learning interest","continuous learning","skill development","career building","professional environment","industry exposure",
+      "academic knowledge","core subjects","technical skills","soft skills","projects","academic projects","practical experience","internship","training","certifications",
+      "problem solving","analytical thinking","critical thinking","teamwork","team collaboration","communication skills","presentation skills","time management",
+      "hardworking","self-motivated","adaptable","flexible","quick learner","positive attitude","dedicated","responsible",
+      "fresher","entry-level","job opportunity","apply knowledge","real-world experience","hands-on experience","career growth","personal growth","professional growth","long-term career goals","contribution to organization","value addition"
+    ]
+  },
+  {
+    "question": "Why do you want this job?",
+    "answer": "I want this job because it is a great opportunity to start my career and gain practical experience. This role matches my skills and interests, and I am eager to learn and grow in a professional environment. I have worked on academic projects and gained basic knowledge, and I want to apply that in a real-world setting. I am also impressed by your company’s reputation, values, and growth opportunities. I am confident that I can contribute positively while improving my skills and building a strong career.",
+    "keywords": [
+      "job interest","career start","career opportunity","entry-level role","fresher job",
+      "college projects","academic projects","college experience","practical learning","training","internship","workshop","certifications",
+      "practical experience","real-world experience","hands-on learning","industry exposure",
+      "skills match","interest alignment","role suitability","knowledge application",
+      "learning","continuous learning","skill development","professional growth","career growth",
+      "professional environment","work culture","team environment",
+      "company research","company background","company products","company services","company goals","company mission","company vision","organization values","industry knowledge",
+      "company reputation","interest in company","target company",
+      "contribution","value addition","positive contribution","team contribution",
+      "knowledge improvement","experience building","long-term career","career building",
+      "motivation","enthusiasm","commitment","dedication"
+    ]
+  },
+  {
+    "question": "What are your strengths?",
+    "answer": "My strengths are that I am a hardworking, self-motivated, and quick learner. I can adapt to new environments easily and have a positive attitude. I have good problem-solving and analytical skills, along with effective communication and teamwork abilities. I manage my time well and stay focused on my goals. I am always eager to learn and improve my skills.",
+    "keywords": [
+      "hardworking","self-motivated","quick learner","adaptable","flexible","positive attitude",
+      "problem solving","analytical thinking","critical thinking","decision making",
+      "communication skills","verbal communication","written communication","presentation skills",
+      "teamwork","team collaboration","leadership","interpersonal skills",
+      "time management","task management","multitasking","punctuality",
+      "responsibility","dedication","consistency","focus","goal oriented",
+      "technical skills","learning ability","continuous learning","skill improvement",
+      "attention to detail","accuracy","work efficiency","productivity"
+    ]
+  },
+  {
+    "question": "What are your weaknesses?",
+    "answer": "One of my weaknesses is that I sometimes overthink and try to be a perfectionist, which can take extra time. I also feel nervous during public speaking, but I am actively working on improving my confidence. As a fresher, I have limited experience, but I am continuously learning and improving my skills. I am focusing on better time management and prioritization to overcome these challenges.",
+    "keywords": [
+      "overthinking","perfectionist","attention to detail",
+      "public speaking nervousness","stage fear","confidence improvement",
+      "limited experience","fresher challenge","learning phase",
+      "taking extra responsibility","difficulty saying no","workload management",
+      "time management improvement","prioritization","task planning",
+      "delegation difficulty","team trust building",
+      "impatience for results","focus on quality","continuous improvement",
+      "self-awareness","self-improvement","skill development","learning mindset","growth mindset"
+    ]
+  },
   {
     "question": "Are you a team player?",
+    "answer": "Yes, I am a team player. I enjoy working in a team environment where I can collaborate with others, share ideas, and achieve common goals. I believe teamwork improves productivity and helps in learning from others. I always support my team members and communicate effectively to ensure smooth coordination.",
     "keywords": [
-      "teamwork",
-      "team collaboration",
-      "group work",
-      "cooperation",
-      "coordination",
-      "support team members",
-      "communication",
-      "interpersonal skills",
-      "shared goals",
-      "team contribution",
-      "adaptability in team",
-      "positive attitude"
+      "teamwork","team collaboration","group work","cooperation","coordination","support team members",
+      "communication","interpersonal skills","shared goals","team contribution","adaptability in team","positive attitude"
     ]
   },
   {
     "question": "What are your hobbies?",
+    "answer": "My hobbies include reading, learning new skills, and exploring new technologies. I like to spend my free time doing something productive that adds value to my knowledge. Reading helps me improve my understanding, while learning new skills keeps me updated and confident. I also enjoy activities that improve my creativity and personal development.",
     "keywords": [
-      "hobbies",
-      "reading",
-      "learning",
-      "skill development",
-      "self-improvement",
-      "time utilization",
-      "productive habits",
-      "creativity",
-      "personal interests",
-      "continuous learning",
-      "knowledge building"
+      "hobbies","reading","learning","skill development","self-improvement","time utilization","productive habits","creativity","personal interests","continuous learning","knowledge building"
     ]
   },
   {
     "question": "Can you work under pressure?",
+    "answer": "Yes, I can work under pressure. I believe pressure is a part of any job, and I try to stay calm and focused during such situations. I manage my time properly, prioritize important tasks, and make sure deadlines are met. Pressure also helps me stay motivated and perform better.",
     "keywords": [
-      "work under pressure",
-      "stress handling",
-      "calm mindset",
-      "focus",
-      "time management",
-      "problem solving",
-      "decision making",
-      "deadline management",
-      "adaptability",
-      "mental stability",
-      "performance under pressure"
+      "work under pressure","stress handling","calm mindset","focus","time management","problem solving","decision making","deadline management","adaptability","mental stability","performance under pressure"
     ]
   },
   {
     "question": "Are you willing to relocate?",
+    "answer": "Yes, I am willing to relocate if the job requires it. I see relocation as an opportunity to explore new environments, learn new things, and grow professionally. I am adaptable and comfortable working in different locations.",
     "keywords": [
-      "relocation",
-      "flexibility",
-      "adaptability",
-      "new environment",
-      "location change",
-      "career opportunity",
-      "job requirement",
-      "mobility",
-      "adjustment",
-      "open to relocation"
+      "relocation","flexibility","adaptability","new environment","location change","career opportunity","job requirement","mobility","adjustment","open to relocation"
     ]
   },
   {
     "question": "What motivates you?",
+    "answer": "I am motivated by learning new things and achieving my goals. I feel encouraged when I see progress in my skills and performance. Challenges also motivate me because they push me to improve and grow. I always try to stay positive and focused on my career goals.",
     "keywords": [
-      "motivation",
-      "career goals",
-      "learning",
-      "growth",
-      "self-improvement",
-      "success",
-      "achievement",
-      "passion",
-      "challenge",
-      "continuous improvement",
-      "positive mindset"
+      "motivation","career goals","learning","growth","self-improvement","success","achievement","passion","challenge","continuous improvement","positive mindset"
     ]
   },
   {
     "question": "Do you have any questions for us?",
+    "answer": "Yes, I would like to know more about the role and responsibilities, the team I will be working with, and the growth opportunities in your organization. I am also interested in understanding how I can contribute to the company’s success.",
     "keywords": [
-      "company information",
-      "job role clarity",
-      "growth opportunities",
-      "learning opportunities",
-      "career development",
-      "team structure",
-      "work culture",
-      "company goals",
-      "future plans",
-      "role expectations"
+      "company information","job role clarity","growth opportunities","learning opportunities","career development","team structure","work culture","company goals","future plans","role expectations"
     ]
   },
   {
     "question": "Why should we hire you?",
+    "answer": "You should hire me because I have the required basic skills, a strong willingness to learn, and a positive attitude. I am a quick learner and can adapt to new environments easily. I am dedicated to my work and always try to give my best. I believe I can contribute effectively to your team and grow with the organization.",
     "keywords": [
-      "skills",
-      "technical skills",
-      "soft skills",
-      "value addition",
-      "contribution",
-      "team fit",
-      "quick learner",
-      "adaptability",
-      "problem solving",
-      "dedication",
-      "commitment",
-      "positive attitude",
-      "career growth",
-      "long-term contribution"
+      "skills","technical skills","soft skills","value addition","contribution","team fit","quick learner","adaptability","problem solving","dedication","commitment","positive attitude","career growth","long-term contribution"
     ]
   },
   {
     "question": "Describe a challenge you faced.",
+    "answer": "During my academic project, I faced a challenge when we had limited time to complete the work. I stayed focused, divided tasks properly, and worked closely with my team. By managing time efficiently and supporting each other, we successfully completed the project on time.",
     "keywords": [
-      "challenge",
-      "problem",
-      "difficulty",
-      "situation",
-      "solution",
-      "problem solving",
-      "decision making",
-      "learning from experience",
-      "teamwork",
-      "adaptability",
-      "responsibility",
-      "result",
-      "outcome"
+      "challenge","problem","difficulty","situation","solution","problem solving","decision making","learning from experience","teamwork","adaptability","responsibility","result","outcome"
     ]
   },
   {
     "question": "How do you handle stress?",
+    "answer": "I handle stress by staying calm and organizing my work properly. I focus on priorities and break tasks into smaller parts to make them manageable. I also maintain a positive mindset and take short breaks when needed to stay productive.",
     "keywords": [
-      "stress management",
-      "calm mindset",
-      "focus",
-      "time management",
-      "prioritization",
-      "positive thinking",
-      "work-life balance",
-      "problem solving",
-      "mental stability",
-      "relaxation techniques",
-      "productivity under stress"
+      "stress management","calm mindset","focus","time management","prioritization","positive thinking","work-life balance","problem solving","mental stability","relaxation techniques","productivity under stress"
     ]
   },
   {
     "question": "Where do you see yourself in 5 years?",
+    "answer": "In the next five years, I see myself growing professionally, improving my skills, and gaining valuable experience. I want to take on more responsibilities and become an important part of the organization while contributing to its success.",
     "keywords": [
-      "future goals",
-      "career growth",
-      "professional development",
-      "skill development",
-      "leadership",
-      "experience",
-      "long-term career",
-      "achievement",
-      "success",
-      "organizational contribution",
-      "stability"
+      "future goals","career growth","professional development","skill development","leadership","experience","long-term career","achievement","success","organizational contribution","stability"
     ]
   },
   {
     "question": "How do you prioritize your work?",
+    "answer": "I prioritize my work based on urgency and importance. I plan my tasks in advance, set deadlines, and focus on completing high-priority tasks first. This helps me stay organized and manage my time effectively.",
     "keywords": [
-      "task prioritization",
-      "time management",
-      "planning",
-      "task management",
-      "deadline management",
-      "importance vs urgency",
-      "organization",
-      "focus",
-      "productivity",
-      "work efficiency",
-      "goal oriented"
-    ]
-  },
- {
-    "question": "What do you know about our company?",
-    "keywords": [
-      "company background",
-      "company history",
-      "products",
-      "services",
-      "industry",
-      "market position",
-      "mission",
-      "vision",
-      "values",
-      "achievements",
-      "recent updates",
-      "business model",
-      "target customers",
-      "competitors",
-      "company growth",
-      "brand reputation",
-      "industry trends",
-      "innovation",
-      "future plans"
-    ]
-  },
-  {
-    "question": "How do you handle criticism?",
-    "keywords": [
-      "accept feedback",
-      "constructive criticism",
-      "positive attitude",
-      "self-improvement",
-      "learning",
-      "adaptability",
-      "performance improvement",
-      "growth mindset",
-      "open mindset",
-      "listening skills",
-      "self-analysis",
-      "behavior improvement",
-      "continuous improvement"
-    ]
-  },
-  {
-    "question": "How do you manage your time?",
-    "keywords": [
-      "time management",
-      "planning",
-      "prioritization",
-      "schedule",
-      "deadlines",
-      "productivity",
-      "organization",
-      "focus",
-      "efficiency",
-      "task management",
-      "time allocation",
-      "work planning",
-      "goal tracking",
-      "discipline"
-    ]
-  },
-  {
-    "question": "What are your salary expectations?",
-    "keywords": [
-      "salary expectation",
-      "negotiation",
-      "market standards",
-      "industry standards",
-      "flexibility",
-      "fair compensation",
-      "entry-level",
-      "career growth",
-      "learning opportunity",
-      "discussion",
-      "open to negotiation",
-      "company policy"
-    ]
-  },
-  {
-    "question": "What is your greatest achievement?",
-    "keywords": [
-      "achievement",
-      "success",
-      "project",
-      "goal completion",
-      "hard work",
-      "result",
-      "recognition",
-      "performance",
-      "accomplishment",
-      "team success",
-      "individual effort",
-      "positive outcome",
-      "milestone"
-    ]
-  },
-  {
-    "question": "Tell me about a time you handled conflict.",
-    "keywords": [
-      "conflict",
-      "resolution",
-      "communication",
-      "teamwork",
-      "understanding",
-      "negotiation",
-      "calm approach",
-      "solution",
-      "problem handling",
-      "listening",
-      "mutual understanding",
-      "respect",
-      "positive outcome"
-    ]
-  },
-  {
-    "question": "Describe your leadership style.",
-    "keywords": [
-      "leadership",
-      "team support",
-      "guidance",
-      "decision making",
-      "motivation",
-      "delegation",
-      "responsibility",
-      "leading by example",
-      "team management",
-      "encouragement",
-      "collaboration",
-      "accountability"
-    ]
-  },
-  {
-    "question": "How do you handle failure?",
-    "keywords": [
-      "failure",
-      "learning",
-      "self-improvement",
-      "resilience",
-      "positive attitude",
-      "mistake analysis",
-      "growth mindset",
-      "experience",
-      "adaptability",
-      "continuous improvement",
-      "bounce back"
-    ]
-  },
-  {
-    "question": "What makes you unique?",
-    "keywords": [
-      "unique",
-      "skills",
-      "strengths",
-      "adaptability",
-      "quick learner",
-      "problem solving",
-      "creativity",
-      "self-motivated",
-      "innovation",
-      "positive mindset",
-      "dedication",
-      "differentiation"
-    ]
-  },
-  {
-    "question": "Explain a situation where you failed.",
-    "keywords": [
-      "failure",
-      "experience",
-      "lesson",
-      "growth",
-      "responsibility",
-      "learning outcome",
-      "improvement",
-      "mistake",
-      "self-reflection",
-      "corrective action",
-      "development"
-    ]
-  },
-  {
-    "question": "How do you take decisions under pressure?",
-    "keywords": [
-      "decision making",
-      "pressure",
-      "calm",
-      "logic",
-      "analysis",
-      "focus",
-      "quick decision",
-      "confidence",
-      "problem solving",
-      "risk assessment",
-      "judgment",
-      "mental stability"
-    ]
-  },
-  {
-    "question": "What are your long-term career goals?",
-    "keywords": [
-      "career",
-      "long-term",
-      "goals",
-      "growth",
-      "development",
-      "skills",
-      "leadership",
-      "achievement",
-      "career planning",
-      "professional success",
-      "future vision",
-      "stability",
-      "progress"
-    ]
-  },
-  {
-    "question": "How do you contribute to company growth?",
-    "keywords": [
-      "contribution",
-      "growth",
-      "teamwork",
-      "efficiency",
-      "productivity",
-      "innovation",
-      "problem solving",
-      "commitment",
-      "value addition",
-      "performance",
-      "responsibility",
-      "result oriented",
-      "organizational success"
-    ]
-  },
-  {
-    "question": "What is your approach to problem-solving?",
-    "keywords": [
-      "problem-solving",
-      "analysis",
-      "logic",
-      "critical thinking",
-      "solution",
-      "decision",
-      "evaluation",
-      "implementation",
-      "step-by-step",
-      "root cause analysis",
-      "creative thinking",
-      "result oriented"
-    ]
-  },
-  {
-    "question": "How do you stay updated with industry trends?",
-    "keywords": [
-      "learning",
-      "trends",
-      "industry",
-      "updates",
-      "research",
-      "courses",
-      "technology",
-      "knowledge",
-      "online learning",
-      "news",
-      "self-improvement",
-      "skill upgrade",
-      "continuous learning"
+      "task prioritization","time management","planning","task management","deadline management","importance vs urgency","organization","focus","productivity","work efficiency","goal oriented"
     ]
   }
-
 ]
-
-
-
-
-
