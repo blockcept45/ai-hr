@@ -1,8 +1,30 @@
 [
-  {
-    "question": "Tell me about yourself.",
-    "keywords": ["introduction", "fresher", "skills", "learning", "background"]
-  },
+ {
+  "question": "Tell me about yourself.",
+  "keywords": [
+    "introduction","self introduction","about me","myself","introduce myself",
+    "fresher","graduate","student","background","personal background",
+    "skills","technical skills","soft skills","communication skills","learning skills",
+    "learning","quick learner","adaptability","knowledge","experience",
+    "education","academic background","qualification","degree","college",
+    "career start","first job","entry level","beginner","junior",
+    "strengths","abilities","capabilities","competence","talent",
+    "hardworking","dedicated","motivated","focused","disciplined",
+    "teamwork","collaboration","team player","group work","cooperation",
+    "problem solving","analytical thinking","logical thinking","critical thinking","decision making",
+    "goals","career goals","future goals","growth","development",
+    "interest","passion","enthusiasm","curiosity","learning mindset",
+    "projects","academic projects","training","internship","practice",
+    "communication","speaking","confidence","presentation","clarity",
+    "adaptability","flexibility","learning attitude","growth mindset","positive attitude",
+    "responsibility","ownership","initiative","self motivated","independent",
+    "time management","organization","planning","discipline","punctuality",
+    "basic knowledge","foundation","understanding","concepts","theory",
+    "career opportunity","job interest","role interest","industry interest","professional growth",
+    "self description","brief introduction","short intro","professional intro","personal summary",
+    "experience example","skills example","background example","learning example","career example"
+  ]
+},
   {
     "question": "Why do you want this job?",
     "keywords": ["career", "growth", "learning", "opportunity", "interest"]
@@ -27,7 +49,7 @@
     "question": "Can you work under pressure?",
     "keywords": ["pressure", "stress", "focus", "calm"]
   },
-  {
+  {  
     "question": "Are you willing to relocate?",
     "keywords": ["relocation", "flexibility", "location", "job"]
   },
